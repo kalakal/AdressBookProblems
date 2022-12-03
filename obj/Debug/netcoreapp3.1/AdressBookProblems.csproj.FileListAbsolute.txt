@@ -1,0 +1,14 @@
+E:\bridgelab\AdressBookProblems\bin\Debug\netcoreapp3.1\AdressBookProblems.exe
+E:\bridgelab\AdressBookProblems\bin\Debug\netcoreapp3.1\AdressBookProblems.deps.json
+E:\bridgelab\AdressBookProblems\bin\Debug\netcoreapp3.1\AdressBookProblems.runtimeconfig.json
+E:\bridgelab\AdressBookProblems\bin\Debug\netcoreapp3.1\AdressBookProblems.runtimeconfig.dev.json
+E:\bridgelab\AdressBookProblems\bin\Debug\netcoreapp3.1\AdressBookProblems.dll
+E:\bridgelab\AdressBookProblems\bin\Debug\netcoreapp3.1\AdressBookProblems.pdb
+E:\bridgelab\AdressBookProblems\obj\Debug\netcoreapp3.1\AdressBookProblems.csproj.AssemblyReference.cache
+E:\bridgelab\AdressBookProblems\obj\Debug\netcoreapp3.1\AdressBookProblems.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelab\AdressBookProblems\obj\Debug\netcoreapp3.1\AdressBookProblems.AssemblyInfoInputs.cache
+E:\bridgelab\AdressBookProblems\obj\Debug\netcoreapp3.1\AdressBookProblems.AssemblyInfo.cs
+E:\bridgelab\AdressBookProblems\obj\Debug\netcoreapp3.1\AdressBookProblems.csproj.CoreCompileInputs.cache
+E:\bridgelab\AdressBookProblems\obj\Debug\netcoreapp3.1\AdressBookProblems.dll
+E:\bridgelab\AdressBookProblems\obj\Debug\netcoreapp3.1\AdressBookProblems.pdb
+E:\bridgelab\AdressBookProblems\obj\Debug\netcoreapp3.1\AdressBookProblems.genruntimeconfig.cache
